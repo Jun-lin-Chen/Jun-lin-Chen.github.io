@@ -5,11 +5,11 @@ author:       "Junlin Chen"
 header-style: text
 catalog:      false
 tags:
-    - social practice
-    - social welfare
+    - practice
+    - welfare
 ---
 
-> 2022.9 -- 2026.6 东南大学 人工智能专业 本科
+> 萤火虽微，可亮星河
 
 第九届东南大学“你的未来我的梦”支教团团长
 
