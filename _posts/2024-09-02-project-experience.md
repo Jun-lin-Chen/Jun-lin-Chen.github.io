@@ -5,8 +5,8 @@ author:       "Junlin Chen"
 header-style: text
 catalog:      false
 tags:
-    - social practice
-    - social welfare
+    - practice
+    - welfare
 ---
 
 > 
