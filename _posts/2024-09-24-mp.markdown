@@ -2,10 +2,9 @@
 layout:post
 title:标题
 author:作者
-header-style:
-catalog:
+header-style:text
+catalog:hello world
 tags:
-    - Web
-    - JavaScript
+    - test
 ---
 ###这是一个测试
