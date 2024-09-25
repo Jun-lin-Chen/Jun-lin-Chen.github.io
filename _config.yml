@@ -13,7 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 7831614992 #改成网址url的最后一个/后面的内容
+# 其他社交账号- 改成网址url的最后一个/后面的内容
+weibo_username: 7831614992 
 zhihu_username: be-yourself-27-51
 github_username: cyber-lin
 twitter_username: 
