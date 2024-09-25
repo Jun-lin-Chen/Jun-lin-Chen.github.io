@@ -89,7 +89,7 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-Other links:
+links:
   [
     { title: "xhs", href: "https://www.xiaohongshu.com/user/profile/610222640000000001005cdc" },
   ]
