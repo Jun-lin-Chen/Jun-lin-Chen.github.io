@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "走过的每一步都算数"
-sidebar-avatar: ./img/home-junlin.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: ./img/home-junlin.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,5 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "test", href: "www.baidu.com" },
+    { title: "xhs", href: "https://www.xiaohongshu.com/user/profile/610222640000000001005cdc" },
   ]
