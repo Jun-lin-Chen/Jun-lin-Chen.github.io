@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: cyber-lin
+weibo_username: 7831614992 #改成网址url的最后一个/后面的内容
 zhihu_username: be-yourself-27-51
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+github_username: cyber-lin
+twitter_username: 
+facebook_username: 
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
