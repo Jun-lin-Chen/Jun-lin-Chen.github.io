@@ -3,7 +3,7 @@ layout:       post
 title:        "实践经历"
 author:       "Junlin Chen"
 header-style: text
-catalog:      false
+catalog:      true
 tags:
     - practice
     - welfare
