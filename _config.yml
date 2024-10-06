@@ -1,8 +1,7 @@
 # Site settings
 title: Web of Junlin Chen
 SEOTitle: Web of Junlin Chen
-header-img: img/Junin-2.jpg
-# img/home-bg.jpg
+header-img: img/home-bg.jpg #首页的背景图
 email: 1034687523@qq.com
 description: "这里是 陈俊霖 的个人网页，与你一起发现更大的世界 | 走过的每一步都算数"
 keyword: "陈俊霖"
